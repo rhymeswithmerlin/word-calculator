@@ -1,0 +1,49 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+.topSection {
+  display: flex;
+  justify-content: space-around;
+}
+.dataEntrySection,
+.resultsSection {
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.topSection,
+.bottomSection {
+  height: 50vh;
+}
+.topSection {
+  background-color: lightblue;
+}
+
+.bottomSection {
+  background-color: lightslategray;
+}
+
+.dataEntrySection input {
+  line-height: 2;
+  font-size: 3em;
+}
+
+.saveButton {
+  margin-top: 10px;
+  font-size: 2em;
+  line-height: 2;
+  background-color: #3dcd4a;
+  border: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
