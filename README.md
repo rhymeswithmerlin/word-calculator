@@ -1,4 +1,5 @@
-![CI/CD](https://github.com/rhymeswithmerlin/word-calculator/workflows/CI/CD/badge.svg)
+[![codecov](https://codecov.io/gh/rhymeswithmerlin/word-calculator/branch/main/graph/badge.svg?token=Q1ZZVYF97W)](https://codecov.io/gh/rhymeswithmerlin/word-calculator)
+
 
 # Getting Started with Create React App
 
