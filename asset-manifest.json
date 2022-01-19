@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/word-calculator/static/css/main.a6f1ea0e.chunk.css",
+    "main.js": "/word-calculator/static/js/main.35a6b21a.chunk.js",
+    "main.js.map": "/word-calculator/static/js/main.35a6b21a.chunk.js.map",
+    "runtime-main.js": "/word-calculator/static/js/runtime-main.fc8106d7.js",
+    "runtime-main.js.map": "/word-calculator/static/js/runtime-main.fc8106d7.js.map",
+    "static/js/2.b1615891.chunk.js": "/word-calculator/static/js/2.b1615891.chunk.js",
+    "static/js/2.b1615891.chunk.js.map": "/word-calculator/static/js/2.b1615891.chunk.js.map",
+    "static/js/3.0002e4de.chunk.js": "/word-calculator/static/js/3.0002e4de.chunk.js",
+    "static/js/3.0002e4de.chunk.js.map": "/word-calculator/static/js/3.0002e4de.chunk.js.map",
+    "index.html": "/word-calculator/index.html",
+    "static/css/main.a6f1ea0e.chunk.css.map": "/word-calculator/static/css/main.a6f1ea0e.chunk.css.map",
+    "static/js/2.b1615891.chunk.js.LICENSE.txt": "/word-calculator/static/js/2.b1615891.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc8106d7.js",
+    "static/js/2.b1615891.chunk.js",
+    "static/css/main.a6f1ea0e.chunk.css",
+    "static/js/main.35a6b21a.chunk.js"
+  ]
+}
